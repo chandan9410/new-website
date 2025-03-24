@@ -6,8 +6,8 @@
 }
 .gridCards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-gap: 15px;
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+  grid-gap: 10px;
 }
 .bannerSize {
   width: 100%;
